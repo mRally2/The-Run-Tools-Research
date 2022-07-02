@@ -7,7 +7,7 @@
    <p><strong>REQUESTS</strong></p>
    <hr>
    <ul>
-      <li>Build up a server emulator to bring back multiplayer to life</li>
+      <li>Build up a server emulator to bring multiplayer back to life</li>
       <li>Use RenderDoc to improve the looks of the game</li>
       <li>Design a resilient algorithm to unlock the framerate of the Story Mode cutscenes. There is a prototype already available</li>
       <li>Design an interface to customize the vehicles easily</li>
@@ -17,7 +17,7 @@
    <p><strong>PLANS FOR THE FUTURE</strong></p>
    <hr>
    <ul>
-      <li>Frosty support for The Run</li>
+      <li>Full Frosty Editor and Mod Manager support for The Run</li>
       <li>Change the order of the Story Mode cutscenes. Start The Run with the Chinese Restaurant meeting and insert the Car Crusher Escape in-between the New Jersey Sprint and DeLeon Rival Race of Stage 10</li>
       <li>Add events that take place in the same Game.Level as SubLevels to avoid loading screens</li>
       <li>Change the background images and videos with higher quality versions</li>
@@ -35,7 +35,7 @@
    <p><strong>TOOLS</strong></p>
    <hr>
    <ul>
-            <li>Cheat Engine cheat table with a lot of useful stuff. A lot of effort was put into it so use it with care: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lxBHhKBA#I81krRLXLYjgck8wcm2I_oDWqiIc3tghVtfLQub1JfM"><em>The Run Master Table</em></a></li>
+      <li>Cheat Engine cheat table with a lot of useful stuff. Lots of effort was put into it so use it with care: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lxBHhKBA#I81krRLXLYjgck8wcm2I_oDWqiIc3tghVtfLQub1JfM"><em>The Run Master Table</em></a></li>
       <li>Work in progress version of Frosty Editor for The Run. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/wwgQHRbL#CxgMRsl2t7R94rTiEPJG54DG8dpVtTuKOt7-Jan7_F0"><em>Frosty Editor</em></a></li>
       <li>ReClass project with a lot of parameters regarding vehicle physics and game engine data. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>ReClass Project</em></a></li>
       <li>IDA executable dump with a lot of functions regarding vehicle physics and game engine subrutines databased and disassembled. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lkwmgKrT#fl8zSrOB_0LnDkNqz8N6kAeqCFsHkT76NITVGGeOx_A"><em>IDA Dump</em></a></li>
@@ -44,17 +44,36 @@
    <p><br></p>
    <p><strong>RESEARCH</strong></p>
    <hr>
-   <p>Experience drifting in The Run like never before. </p>
+      <ul>
+      <li>A text file with a lot of my own research: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lxBHhKBA#I81krRLXLYjgck8wcm2I_oDWqiIc3tghVtfLQub1JfM"><em>Research Resource</em></a></li>
+   </ul>
    <p><br></p>
-   <p><strong>PS</strong></p>
-   <hr>
-   <p>Support me for future releases of mods and tools for this and other games.</p>
-   <p><a target="_blank" rel="noopener noreferrer nofollow" href="https://paypal.me/mRally2"><strong>https://paypal.me/mRally2</strong></a></p>
-      <p><strong>TOOLS</strong></p>
+      <p><strong>SHOWCASE GALLERY</strong></p>
    <hr>
    <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/cPlNhtJ"><em>Need For Speed The Run Debug PC</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/9G4YZ8s"><em>Need For Speed The Run Modding</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/WqmNBw1"><em>Need For Speed The Run Vehicle Customization</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/mRLN0WU"><em>Need For Speed The Run Vehicle Showcase</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/JRwF727"><em>Need For Speed The Run Borrowed VisEnv</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/uQtIlye"><em>Need For Speed The Run Custom VisEnv</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/5O2WV4w"><em>Need For Speed The Run Unused Assets</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/MEwug8p"><em>Need For Speed The Run Crash Reports</em></a></li>
+   </ul>
+   <p><br></p>
+   <p><strong>REACH OUT</strong></p>
+   <hr>
+   <ul>
+      <li>Send me a friend request on Discord @ <em><strong>_mRally2#1167</strong></em></li>
+      <li>Send me an <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mrally2business@outlook.com"><strong>e-Mail</strong></a></li>
+   </ul>
+   <p><br></p>
+   <p><strong>DISCLAMER</strong></p>
+   <hr>
+   <ul>
+      <li>I am not responsible for any law infringement caused by the third parties tools shared here</li>
       <li>I am not responsible for any damage caused to your system by the tools featured here so use them at your own risk</li>
-      <li>I do not own the rights of the art seen on the cover and thumbnail of this product. All rights reserved to Electronic Arts Inc.<br></li>
+      <li>I do not own the rights of the art seen on this page. All rights reserved to Electronic Arts Inc.<br></li>
    </ul>
    <p><br></p>
 </div>
