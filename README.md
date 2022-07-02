@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/0dHEEgW">
+<img src="https://i.imgur.com/dAMl846.jpg">
 <div class="rich-text">
    <p><strong>DESCRIPTION</strong></p>
    <hr>
