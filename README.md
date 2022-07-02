@@ -71,8 +71,7 @@
    <p><strong>DISCLAMER</strong></p>
    <hr>
    <ul>
-      <li>I am not responsible for any law infringement caused by the third parties tools shared here</li>
-      <li>I am not responsible for any damage caused to your system by the tools featured here so use them at your own risk</li>
+      <li>I am not responsible for any law infringement or damage to your system caused by the third party tools shared here. Use them at your own risk</li>
       <li>I do not own the rights of the art seen on this page. All rights reserved to Electronic Arts Inc.<br></li>
    </ul>
    <p><br></p>
