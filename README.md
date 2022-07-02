@@ -2,7 +2,7 @@
 <div class="rich-text">
    <p><strong>THE RUN IS NOT OVER...</strong></p>
    <hr>
-   <p>Help improve The Run to show EA how much you would like to see a videogame sequel.</p>
+   <p>Help improve The Run to show EA how much you would like a videogame sequel.</p>
    <p><br></p>
    <p><strong>REQUESTS</strong></p>
    <hr>
@@ -39,7 +39,7 @@
       <li>Work in progress version of Frosty Editor for The Run. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/wwgQHRbL#CxgMRsl2t7R94rTiEPJG54DG8dpVtTuKOt7-Jan7_F0"><em>Frosty Editor</em></a></li>
       <li>ReClass project with a lot of parameters regarding vehicle physics and game engine data. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>ReClass Project</em></a></li>
       <li>IDA executable dump with a lot of functions regarding vehicle physics and game engine subrutines databased and disassembled. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lkwmgKrT#fl8zSrOB_0LnDkNqz8N6kAeqCFsHkT76NITVGGeOx_A"><em>IDA Dump</em></a></li>
-      <li>Frostbite 2 scripts to dump all assets.<em>Special thanks to NicknineTheEagle</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/NicknineTheEagle/Frostbite-Scripts"><em>Frostbite Scripts</em></a></li>
+      <li>Frostbite 2 scripts to dump all assets. <em>Special thanks to NicknineTheEagle</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/NicknineTheEagle/Frostbite-Scripts"><em>Frostbite Scripts</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>RESEARCH</strong></p>
@@ -64,7 +64,7 @@
    <p><strong>REACH OUT</strong></p>
    <hr>
    <ul>
-      <li>Send me a friend request on Discord @ <em><strong>_mRally2#1167</strong></em></li>
+      <li>Talk to me directly on Discord @ <em><strong>_mRally2#1167</strong></em></li>
       <li>Send me an <a target="_blank" rel="noopener noreferrer nofollow" href="mailto:mrally2business@outlook.com"><strong>e-Mail</strong></a></li>
    </ul>
    <p><br></p>
