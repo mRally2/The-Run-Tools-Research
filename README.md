@@ -46,7 +46,8 @@
    <hr>
       <ul>
       <li>A text file with a lot of my own research: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lxBHhKBA#I81krRLXLYjgck8wcm2I_oDWqiIc3tghVtfLQub1JfM"><em>Research Resource</em></a></li>
-   </ul>
+      <li>Here is an excel table containing all Vehicle IDs: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>Vehicle Attributes Table</em></a></li>
+      </ul>
    <p><br></p>
       <p><strong>SHOWCASE GALLERY</strong></p>
    <hr>
