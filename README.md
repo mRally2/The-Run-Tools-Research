@@ -35,11 +35,14 @@
    <p><strong>TOOLS</strong></p>
    <hr>
    <ul>
-      <li>Cheat Engine cheat table with a lot of useful stuff. Lots of effort was put into it so use it with care: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lxBHhKBA#I81krRLXLYjgck8wcm2I_oDWqiIc3tghVtfLQub1JfM"><em>The Run Master Table</em></a></li>
-      <li>Work in progress version of Frosty Editor for The Run. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/wwgQHRbL#CxgMRsl2t7R94rTiEPJG54DG8dpVtTuKOt7-Jan7_F0"><em>Frosty Editor</em></a></li>
-      <li>ReClass project with a lot of parameters regarding vehicle physics and game engine data. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>ReClass Project</em></a></li>
-      <li>IDA executable dump with a lot of functions regarding vehicle physics and game engine subrutines databased and disassembled. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/lkwmgKrT#fl8zSrOB_0LnDkNqz8N6kAeqCFsHkT76NITVGGeOx_A"><em>IDA Dump</em></a></li>
+      <li>Cheat Engine cheat table with a lot of useful stuff: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/pgICXb7Q#IIb7U0wtMN-NmRaddbp-DDrrEWe4KhxznoZdvPvSou4"><em>The Run Master Table</em></a></li>
+      <li>Work in progress version of Frosty Editor for The Run. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/xpo0UCRQ#KtAF5HN17GbkOu5O50STQHmnU1xinAxVJm0Ny58Hlq4"><em>Frosty Editor</em></a></li>
+      <li>ReClass project with a lot of parameters regarding vehicle physics and game engine data. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/V5ICBaxJ#iFrfqgGLIYQnmyPUuJ05wdcPU5xLIj-hEnlHi8DuCVE"><em>ReClass Project</em></a></li>
+      <li>IDA executable dump with a lot of functions regarding vehicle physics and game engine subrutines databased and disassembled. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/d5pmhCQC#jDEstXnBLmOxHqTBulo_IaL_WneC5e3t92SE5uqFylw"><em>IDA Dump</em></a></li>
       <li>Frostbite 2 scripts to dump all assets. <em>Special thanks to NicknineTheEagle</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/NicknineTheEagle/Frostbite-Scripts"><em>Frostbite Scripts</em></a></li>
+      <li>Editor for initfs files: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/Yg4UhYYL#cW8tC4Yab0MbGHWs_aY7c51eSKcJ2IZaE3ZBSjZ7x4I"><em>BFInitfsEditor110</em></a></li>
+      <li>Program to run the executable on a certain date ideal for launching the hidden demo mode. <em>Special thanks to Nirsoft</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nirsoft.net/utils/run_as_date.html"><em>RunAsDate</em></a></li>
+      <li>Original 1.0.0.0 and 1.1.0.0 executables: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/so510BRC#5l4ckyuPqUc0QEsOGcpDiOanXwyJUymeWUvoE29Q2us"><em>The Run Executables</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>RESEARCH</strong></p>
@@ -49,11 +52,33 @@
       <li>Here is an excel table containing all Vehicle IDs: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>Vehicle Attributes Table</em></a></li>
       </ul>
    <p><br></p>
-      <p><strong>SHOWCASE GALLERY</strong></p>
+   <p><strong>MOD PROTOTYPES</strong></p>
+   <hr>
+   <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/AllAmericanRun"><em>All American Run</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TheClassicsRun"><em>The Classics Run</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TheSupercarRun"><em>The Supercar Run</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/Drift Attack"><em>Drift Attack</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/Extra UI Options"><em>Extra UI Options</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TOD Randomizer"><em>TOD Randomizer</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/Unreleased Events"><em>Unreleased Events</em></a></li>
+   </ul>
+   <p><br></p>
+   <p><strong>COMMUNITY MODS</strong></p>
+   <hr>
+   <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="http://www.tocaedit.com/2012/08/need-for-speed-run-camera-control.html"><em>ToCA EDIT Camera Control</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/3472"><em>Camera & Cinematic Tools</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/3251"><em>Debug Menu & Intro Movie Skip</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/282"><em>Basic Car Changer</em></a></li>
+   </ul>
+   <p><br></p>
+   <p><strong>SHOWCASE GALLERY</strong></p>
    <hr>
    <ul>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/cPlNhtJ"><em>Need For Speed The Run Debug PC</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/9G4YZ8s"><em>Need For Speed The Run Modding</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/XDO2gsI"><em>Need For Speed The Run Mod Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/WqmNBw1"><em>Need For Speed The Run Vehicle Customization</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/mRLN0WU"><em>Need For Speed The Run Vehicle Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/JRwF727"><em>Need For Speed The Run Borrowed VisEnv</em></a></li>
