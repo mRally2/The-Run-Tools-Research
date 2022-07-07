@@ -58,10 +58,10 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/AllAmericanRun"><em>All American Run</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TheClassicsRun"><em>The Classics Run</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TheSupercarRun"><em>The Supercar Run</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/Drift Attack"><em>Drift Attack</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/Extra UI Options"><em>Extra UI Options</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TOD Randomizer"><em>TOD Randomizer</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/Unreleased Events"><em>Unreleased Events</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/DriftAttack"><em>Drift Attack</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/ExtraUIOptions"><em>Extra UI Options</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TODRandomizer"><em>TOD Randomizer</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/UnreleasedEvents"><em>Unreleased Events</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>COMMUNITY MODS</strong></p>
