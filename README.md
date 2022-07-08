@@ -11,7 +11,7 @@
       <li>Use RenderDoc to improve the looks of the game</li>
       <li>Design a resilient algorithm to unlock the framerate of the Story Mode cutscenes. There is a prototype already available</li>
       <li>Design an interface to customize the vehicles easily</li>
-      <li>Port all the trainer prototypes to C++/C# and use IMGUI as the interface for easy access「THE RUN PERFECTED」</li>
+      <li>Port all trainer prototypes to C++/C# and use IMGUI as the interface for easy access</li>
    </ul>
    <p><br></p>
    <p><strong>PLANS FOR THE FUTURE</strong></p>
