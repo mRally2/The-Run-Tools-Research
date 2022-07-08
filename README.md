@@ -51,6 +51,7 @@
       <ul>
       <li>A text file with a lot of my own research: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/Vhwh0JaB#QS5TP4EOgEledmZHKELXebn2jv494dmstV8dlvnSo2I"><em>Research Resource</em></a></li>
       <li>Here is an excel table containing all Vehicle IDs: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>Vehicle Attributes Table</em></a></li>
+      <li>All EBX files on either TXT or XML format: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/N0wihAyS#qB8Em0i3RO9N1oKdrQvBL_xsZrDIr5tMFtujDMwmPLA"><em>EBX Dump</em></a></li>
       </ul>
    <p><br></p>
    <p><strong>MOD PROTOTYPES</strong></p>
