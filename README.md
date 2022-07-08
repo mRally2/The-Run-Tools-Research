@@ -11,24 +11,26 @@
       <li>Use RenderDoc to improve the looks of the game</li>
       <li>Design a resilient algorithm to unlock the framerate of the Story Mode cutscenes. There is a prototype already available</li>
       <li>Design an interface to customize the vehicles easily</li>
-      <li>Port all the trainers featured to C++/C# and use IMGUI as the interface for easy access</li>
+      <li>Port all the trainer prototypes to C++/C# and use IMGUI as the interface for easy access「THE RUN PERFECTED」</li>
    </ul>
    <p><br></p>
    <p><strong>PLANS FOR THE FUTURE</strong></p>
    <hr>
    <ul>
       <li>Full Frosty Editor and Mod Manager support for The Run</li>
-      <li>Change the order of the Story Mode cutscenes. Start The Run with the Chinese Restaurant meeting and insert the Car Crusher Escape in-between the New Jersey Sprint and DeLeon Rival Race of Stage 10</li>
       <li>Add events that take place in the same Game.Level as SubLevels to avoid loading screens</li>
-      <li>Change the background images and videos with higher quality versions</li>
-      <li>Change the soundtrack of the game to better licensed tracks</li>
+      <li>Replace the background images and videos with higher quality versions</li>
+      <li>Replace the soundtrack of the game</li>
       <li>Fix the vehicles’ model rendering to look as high detail as possible</li>
       <li>Fix the low quality vehicle liveries when outside of the FrontEnd garage</li>
       <li>Add VisEnv templates from other Game.Levels to be able to use them easily when instancing the events</li>
       <li>Figuring out how Online Entitlements work in order to unlock the Limited Edtition content only</li>
       <li>Create new Challenge Series events</li>
-      <li>Add manually customized vehicles to the car roaster via Frosty</li>
+      <li>Add manually customized vehicles to the car roster via Frosty Editor and VLT</li>
       <li>Make the VLT data be fully readable and customizable</li>
+      <li>Add new content and improve if possible all my trainer prototypes</li>
+      <li>Make new Story Mode versions of my mods. Play the entire career with a certain tier. From tier 1 to 6. Adapt checkpoint timer, opponent rubberband and career difficulty on the fly depending on the event or vehicle tier chosen</li>
+      <li>Change the order of the Story Mode cutscenes. Start The Run with the Chinese Restaurant meeting and insert the Car Crusher Escape in-between the New Jersey Sprint and DeLeon Rival Race of Stage 10</li>
       <li>Fix the game crashing during gameplay and after crossing the finish line</li>
    </ul>
    <p><br></p>
@@ -69,6 +71,7 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="http://www.tocaedit.com/2012/08/need-for-speed-run-camera-control.html"><em>ToCA EDIT Camera Control</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/3472"><em>Camera & Cinematic Tools</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/3251"><em>Debug Menu & Intro Movie Skip</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=ktw051&logNo=10185640112"><em>Unrestricted Car Roster</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/282"><em>Basic Car Changer</em></a></li>
    </ul>
    <p><br></p>
