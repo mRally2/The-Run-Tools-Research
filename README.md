@@ -24,7 +24,7 @@
       <li>Fix the vehicles’ model rendering to look as high detail as possible</li>
       <li>Fix the low quality vehicle liveries when outside of the FrontEnd garage</li>
       <li>Add VisEnv templates from other Game.Levels to be able to use them easily when instancing the events</li>
-      <li>Figuring out how Online Entitlements work in order to unlock the Limited Edtition content only</li>
+      <li>Figure out how to spawn the unused roadblock and helicopter assets in challenge series events 10.5, 11.3 and 13.7</li>
       <li>Create new Challenge Series events</li>
       <li>Add manually customized vehicles to the car roster via Frosty Editor and VLT</li>
       <li>Make the VLT data be fully readable and customizable</li>
