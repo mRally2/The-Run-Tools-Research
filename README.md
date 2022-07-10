@@ -76,19 +76,35 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/282"><em>Basic Car Changer</em></a></li>
    </ul>
    <p><br></p>
-   <p><strong>SHOWCASE GALLERY</strong></p>
+   <p><strong>IMAGE GALLERY</strong></p>
    <hr>
    <ul>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/cPlNhtJ"><em>Need For Speed The Run Debug PC</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/SOiSFxy"><em>Need For Speed The Run Demo PC</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/9G4YZ8s"><em>Need For Speed The Run Modding</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/XDO2gsI"><em>Need For Speed The Run Mod Showcase</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/9G4YZ8s"><em>Need For Speed The Run Modding Showcase</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/XDO2gsI"><em>Need For Speed The Run Prototype Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/WqmNBw1"><em>Need For Speed The Run Vehicle Customization</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/mRLN0WU"><em>Need For Speed The Run Vehicle Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/JRwF727"><em>Need For Speed The Run Borrowed VisEnv</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/uQtIlye"><em>Need For Speed The Run Custom VisEnv</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/5O2WV4w"><em>Need For Speed The Run Unused Assets</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://imgur.com/a/MEwug8p"><em>Need For Speed The Run Crash Reports</em></a></li>
+   </ul>
+   <p><br></p>
+   <p><strong>VIDEO GALLERY</strong></p>
+   <hr>
+   <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/E2EPTU13f34"><em>Need For Speed The Run Making Of</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/25533404"><em>Need For Speed The Run Sizzle Reel</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/33616977"><em>Need For Speed The Run Environments Showcase</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXVu8K6vbGaWkqa0vKNtt3Xi"><em>Need For Speed The Run Modding Showcase</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXU-2xXHIMOEWpUtiT1v6oN_"><em>Need For Speed The Run E3 & Gamescom</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXVhMJnQpl4zqmosaFqY78UE"><em>Need For Speed The Run Interviews</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/mE6uawWQGqA"><em>Need For Speed The Run Demo</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXUJhRV2PTQsltzGtL8vEMX2"><em>Need For Speed The Run Trailers</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/RM24dPXETic"><em>Need For Speed The Run TV Commercial</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/29133538"><em>Need For Speed The Run TV Advertisement</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/e5eIE7INNsc"><em>Need For Speed The Run Launch Live</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>REACH OUT</strong></p>
