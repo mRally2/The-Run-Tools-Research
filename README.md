@@ -28,6 +28,7 @@
       <li>Create new Challenge Series events</li>
       <li>Add manually customized vehicles to the car roster via Frosty Editor and VLT</li>
       <li>Make the VLT data be fully readable and customizable</li>
+      <li>Unpack the lua scripts embedded into the executable</li>
       <li>Add new content and improve if possible all my trainer prototypes</li>
       <li>Make new Story Mode versions of my mods. Play the entire career with a certain tier. From tier 1 to 6. Adapt checkpoint timer, opponent rubberband and career difficulty on the fly depending on the event or vehicle tier chosen</li>
       <li>Change the order of the Story Mode cutscenes. Start The Run with the Chinese Restaurant meeting and insert the Car Crusher Escape in-between the New Jersey Sprint and DeLeon Rival Race of Stage 10</li>
@@ -52,6 +53,8 @@
       <li>A text file with a lot of my own research: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/Vhwh0JaB#QS5TP4EOgEledmZHKELXebn2jv494dmstV8dlvnSo2I"><em>Research Resource</em></a></li>
       <li>Here is an excel table containing all Vehicle IDs: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>Vehicle Attributes Table</em></a></li>
       <li>All EBX files on either TXT or XML format: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/N0wihAyS#qB8Em0i3RO9N1oKdrQvBL_xsZrDIr5tMFtujDMwmPLA"><em>EBX Dump</em></a></li>
+      <li>Debug symbols from the earliest known build: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/ghx1EYhL#dyZHZZLVU7kLAQsz6CrPfLORD_6gt9qKCrJCHy6JQlM"><em>Debug Symbols</em></a></li>
+      <li>The Run Demo: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/E0R3nQZK#ssrizo8-kgO6xZCmm39U7SmiiAQ2HpNm1h1F0Mq9ehs"><em>X360 Demo</em></a></li>
       </ul>
    <p><br></p>
    <p><strong>MOD PROTOTYPES</strong></p>
@@ -96,6 +99,7 @@
    <ul>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/E2EPTU13f34"><em>Need For Speed The Run Making Of</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/25533404"><em>Need For Speed The Run Sizzle Reel</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/37715564"><em>Need For Speed The Run 3D Map Animation</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/33616977"><em>Need For Speed The Run Environments Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXVu8K6vbGaWkqa0vKNtt3Xi"><em>Need For Speed The Run Modding Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/mE6uawWQGqA"><em>Need For Speed The Run Demo Showcase</em></a></li>
