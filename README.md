@@ -111,6 +111,24 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/e5eIE7INNsc"><em>Need For Speed The Run Launch Live</em></a></li>
    </ul>
    <p><br></p>
+   <p><strong>AUDIO GALLERY</strong></p>
+   <hr>
+   <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/drive/folders/1AaofeuN0VJQsE-JWy5tKr683VG6rl1cY"><em>Need For Speed The Run Composed Music Mutichannel</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/0toDBCJI#kiO2Od5ctCuKKEVnYoWb1aRGdVo649cl24qrP35jzpQ"><em>Need For Speed The Run Composed Music Stereo</em></a></li>
+   </ul>
+   <p><br></p>
+   <p><strong>ART PORTFOLIO</strong></p>
+   <hr>
+   <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/2631941/Need-for-Speed-The-Run"><em>Aaron Richmond</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/2526367/Need-For-Speed-The-Run-A-selection-of-tracks"><em>Sebastien Linage</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/q42az"><em>Brendan McCaffrey</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/lV1Ego"><em>Gregg Daly</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/B1gqKD"><em>Eduardo Agostini</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/22844403/Need-For-Speed-The-Run"><em>Andrew Kwa</em></a></li>
+   </ul>
+   <p><br></p>
    <p><strong>REACH OUT</strong></p>
    <hr>
    <ul>
