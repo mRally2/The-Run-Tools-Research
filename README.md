@@ -28,7 +28,7 @@
       <li>Create new Challenge Series events</li>
       <li>Add manually customized vehicles to the car roster via Frosty Editor and VLT</li>
       <li>Make the VLT data be fully readable and customizable</li>
-      <li>Unpack the lua scripts embedded into the executable</li>
+      <li>Extract the lua scripts embedded into the executable</li>
       <li>Add new content and improve if possible all my trainer prototypes</li>
       <li>Make new Story Mode versions of my mods. Play the entire career with a certain tier. From tier 1 to 6. Adapt checkpoint timer, opponent rubberband and career difficulty on the fly depending on the event or vehicle tier chosen</li>
       <li>Change the order of the Story Mode cutscenes. Start The Run with the Chinese Restaurant meeting and insert the Car Crusher Escape in-between the New Jersey Sprint and DeLeon Rival Race of Stage 10</li>
