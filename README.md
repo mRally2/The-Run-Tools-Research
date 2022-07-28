@@ -44,8 +44,6 @@
       <li>Frostbite 2 scripts to dump all assets. <em>Special thanks to NicknineTheEagle</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/NicknineTheEagle/Frostbite-Scripts"><em>Frostbite Scripts</em></a></li>
       <li>Editor for initfs files: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/Yg4UhYYL#cW8tC4Yab0MbGHWs_aY7c51eSKcJ2IZaE3ZBSjZ7x4I"><em>BFInitfsEditor110</em></a></li>
       <li>Program to run the executable on a certain date ideal for launching the hidden demo mode. <em>Special thanks to Nirsoft</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nirsoft.net/utils/run_as_date.html"><em>RunAsDate</em></a></li>
-      <li>Original 1.0.0.0 and 1.1.0.0 executables: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/so510BRC#5l4ckyuPqUc0QEsOGcpDiOanXwyJUymeWUvoE29Q2us"><em>The Run Executables</em></a></li>
-      <li>Italian Pack DLC from X360: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/RhgVzTLb#B13DwK-BTNE22qXMOd3seL1FCZf1Wj7bKesj1dSUIIU"><em>Italian Pack</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>RESEARCH</strong></p>
@@ -55,6 +53,8 @@
       <li>Here is an excel table containing all Vehicle IDs: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>Vehicle Attributes Table</em></a></li>
       <li>All EBX files on either TXT or XML format: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/N0wihAyS#qB8Em0i3RO9N1oKdrQvBL_xsZrDIr5tMFtujDMwmPLA"><em>EBX Dump</em></a></li>
       <li>Debug symbols from the earliest known build: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/ghx1EYhL#dyZHZZLVU7kLAQsz6CrPfLORD_6gt9qKCrJCHy6JQlM"><em>Debug Symbols</em></a></li>
+      <li>Original 1.0.0.0 and 1.1.0.0 executables: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/so510BRC#5l4ckyuPqUc0QEsOGcpDiOanXwyJUymeWUvoE29Q2us"><em>The Run Executables</em></a></li>
+      <li>Italian Pack DLC: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/RhgVzTLb#B13DwK-BTNE22qXMOd3seL1FCZf1Wj7bKesj1dSUIIU"><em>X360 Italian Pack</em></a></li>
       <li>The Run Demo: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/E0R3nQZK#ssrizo8-kgO6xZCmm39U7SmiiAQ2HpNm1h1F0Mq9ehs"><em>X360 Demo</em></a></li>
       </ul>
    <p><br></p>
