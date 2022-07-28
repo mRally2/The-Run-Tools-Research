@@ -45,6 +45,7 @@
       <li>Editor for initfs files: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/Yg4UhYYL#cW8tC4Yab0MbGHWs_aY7c51eSKcJ2IZaE3ZBSjZ7x4I"><em>BFInitfsEditor110</em></a></li>
       <li>Program to run the executable on a certain date ideal for launching the hidden demo mode. <em>Special thanks to Nirsoft</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nirsoft.net/utils/run_as_date.html"><em>RunAsDate</em></a></li>
       <li>Original 1.0.0.0 and 1.1.0.0 executables: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/so510BRC#5l4ckyuPqUc0QEsOGcpDiOanXwyJUymeWUvoE29Q2us"><em>The Run Executables</em></a></li>
+      <li>Italian Pack DLC from X360: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/RhgVzTLb#B13DwK-BTNE22qXMOd3seL1FCZf1Wj7bKesj1dSUIIU"><em>Italian Pack</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>RESEARCH</strong></p>
