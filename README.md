@@ -126,6 +126,7 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/q42az"><em>Brendan McCaffrey</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/lV1Ego"><em>Gregg Daly</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/B1gqKD"><em>Eduardo Agostini</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/11150347/Need-for-Speed-The-Run"><em>Carl Jarrett</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/22844403/Need-For-Speed-The-Run"><em>Andrew Kwa</em></a></li>
    </ul>
    <p><br></p>
