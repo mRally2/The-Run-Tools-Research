@@ -8,6 +8,7 @@
    <hr>
    <ul>
       <li>Build up a server emulator to bring multiplayer back to life</li>
+      <li>Significantly decrease the loading times by disabling the hardcoded V-Sync and forcing GameTime.MaxVariableFps to a high number during loading screens</li>
       <li>Use RenderDoc to improve the looks of the game</li>
       <li>Design a resilient algorithm to unlock the framerate of the Story Mode cutscenes. There is a prototype already available</li>
       <li>Design an interface to customize the vehicles easily</li>
