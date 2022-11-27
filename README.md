@@ -8,9 +8,9 @@
    <hr>
    <ul>
       <li>Build up a server emulator to bring multiplayer back to life</li>
-      <li>Significantly decrease the loading times by disabling the hardcoded V-Sync during loading screens. The more fps, faster the loading will be</li>
-      <li>Make the FrontEnd UI way smoother by forcing GameTime.MaxSimFps to user’s monitor refresh rate</li>
       <li>Use RenderDoc to improve the looks of the game</li>
+      <li>Significantly decrease the loading times by disabling the hardcoded V-Sync during loading screens. The more fps, faster the loading will be</li>
+      <li>Make the UI and menus way smoother by forcing GameTime.MaxSimFps to 1kHz</li>
       <li>Design a resilient algorithm to unlock the framerate of the Story Mode cutscenes. There is a prototype already available</li>
       <li>Design an interface to customize the vehicles easily</li>
       <li>Port all trainer prototypes to C++/C# and use IMGUI as the interface for easy access</li>
@@ -20,6 +20,8 @@
    <hr>
    <ul>
       <li>Full Frosty Editor and Mod Manager support for The Run</li>
+      <li>Design an algorithm to force VisEnvs if a level has been instanced more than once. Ideal for bringing variety to multiplayer</li>
+      <li>Replace low quality texture assets with higher quality ones</li>
       <li>Add events that take place in the same Game.Level as SubLevels to avoid loading screens</li>
       <li>Replace the background images and videos with higher quality versions</li>
       <li>Replace the soundtrack of the game</li>
