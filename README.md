@@ -48,6 +48,7 @@
       <li>IDA executable dump with a lot of functions regarding vehicle physics and game engine subrutines databased and disassembled. <em>Special thanks to Brawltendo</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/d5pmhCQC#jDEstXnBLmOxHqTBulo_IaL_WneC5e3t92SE5uqFylw"><em>IDA Dump</em></a></li>
       <li>Frostbite 2 scripts to dump all assets. <em>Special thanks to NicknineTheEagle</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/NicknineTheEagle/Frostbite-Scripts"><em>Frostbite Scripts</em></a></li>
       <li>Editor for initfs files: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/Yg4UhYYL#cW8tC4Yab0MbGHWs_aY7c51eSKcJ2IZaE3ZBSjZ7x4I"><em>BFInitfsEditor110</em></a></li>
+      <li>Tool for calculating VLT data hashes. <em>Special thanks to nfsu360</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://nfs-tools.blogspot.com/2018/08/nfs-hasher-released.html"><em>NFS-Hasher</em></a></li>
       <li>Program to run the executable on a certain date ideal for launching the hidden demo mode. <em>Special thanks to Nirsoft</em>: <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nirsoft.net/utils/run_as_date.html"><em>RunAsDate</em></a></li>
    </ul>
    <p><br></p>
@@ -56,7 +57,7 @@
       <ul>
       <li>A text file with a lot of my own research: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/Vhwh0JaB#QS5TP4EOgEledmZHKELXebn2jv494dmstV8dlvnSo2I"><em>Research Resource</em></a></li>
       <li>Here is an excel table containing all Vehicle IDs: <a target="_blank" rel="noopener noreferrer nofollow" href="https://docs.google.com/spreadsheets/d/1PKMQ9pjzXqJNN7dPLvb09Cwpaonbf0m-/edit?usp=sharing&amp;ouid=115565166183456091745&amp;rtpof=true&amp;sd=true"><em>Vehicle Attributes Table</em></a></li>
-      <li>Files containing VLT data: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/E5xlSabJ#_g0C19RXbd3Oc_FmXE4qeim5W0XX1pL2ZVxgoPB9tEg"><em>VLT Data</em></a></li>
+      <li>Files containing VLT data: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/RtpAUKDA#Wc2YdVIylXHpAnNpyz3zfuP-_cvpWpQrMyPB9l2gZPo"><em>VLT Data</em></a></li>
       <li>Debug symbols from the earliest known build: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/ghx1EYhL#dyZHZZLVU7kLAQsz6CrPfLORD_6gt9qKCrJCHy6JQlM"><em>Debug Symbols</em></a></li>
       <li>Original 1.0.0.0 and 1.1.0.0 executables: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/so510BRC#5l4ckyuPqUc0QEsOGcpDiOanXwyJUymeWUvoE29Q2us"><em>The Run Executables</em></a></li>
       <li>PC EBX dump in TXT or XML format: <a target="_blank" rel="noopener noreferrer nofollow" href="https://mega.nz/file/N0wihAyS#qB8Em0i3RO9N1oKdrQvBL_xsZrDIr5tMFtujDMwmPLA"><em>PC EBX Dump</em></a></li>
