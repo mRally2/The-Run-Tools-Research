@@ -2,7 +2,7 @@
 <div class="rich-text">
    <p><strong>THE RUN IS NOT OVER...</strong></p>
    <hr>
-   <p>Help improve The Run to show EA how much you would like a videogame sequel. There is a lot more to be discovered. I hope all the content compiled here inspire people to keep researching into the game and hopefully get it a second life with its consequent boost in popularity</p>
+   <p>Help improve The Run to show EA how much you would like a videogame sequel. There is a lot more to be discovered. I hope all the content compiled here inspire people to keep researching into the game and hopefully get it a second life with its consequent boost in popularity.</p>
    <p><br></p>
    <p><strong>REQUESTS</strong></p>
    <hr>
