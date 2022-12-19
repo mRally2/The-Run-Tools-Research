@@ -2,12 +2,13 @@
 <div class="rich-text">
    <p><strong>THE RUN IS NOT OVER...</strong></p>
    <hr>
-   <p>Help improve The Run to show EA how much you would like a videogame sequel.</p>
+   <p>Help improve The Run to show EA how much you would like a videogame sequel. There is a lot more to be discovered. I hope all the content compiled here inspire people to keep researching into the game and hopefully get it a second life with its consequent boost in popularity</p>
    <p><br></p>
    <p><strong>REQUESTS</strong></p>
    <hr>
    <ul>
       <li>Build up a server emulator to bring multiplayer back to life</li>
+      <li>Help the speedrunning community develop a more accurate loadless timer. The most recent one is inaccurate by milliseconds and runs have to be retimed manually</li>
       <li>Use RenderDoc to improve the visuals of the game. Higher quality motion blur, shadows, reflections and so on</li>
       <li>Significantly decrease the loading times by disabling the hardcoded V-Sync during loading screens. The more fps, faster the loading will be</li>
       <li>Make the UI and menus way smoother by forcing GameTime.MaxSimFps to 1kHz</li>
@@ -21,7 +22,7 @@
    <ul>
       <li>Full Frosty Editor and Mod Manager support for The Run</li>
       <li>Disable all vehicle assists only for the player for a more pleasant driving experience. It crashes the game if AI has no assists during gameplay</li>
-      <li>Design an algorithm to force VisEnvs if a level has been instanced more than once. Ideal for bringing variety to multiplayer</li>
+      <li>Design an algorithm to force VisEnvs from other levels if an event has been restarted once or more in a row. Ideal for bringing variety to multiplayer</li>
       <li>Replace low quality texture assets with higher quality ones</li>
       <li>Add events that take place in the same Game.Level as SubLevels to avoid loading screens</li>
       <li>Replace the background images and videos with higher quality versions</li>
@@ -70,11 +71,11 @@
    <p><strong>MOD PROTOTYPES</strong></p>
    <hr>
    <ul>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/AllAmericanRun"><em>All American Run - Stay Tuned!</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TheClassicsRun"><em>The Classics Run - Stay Tuned!</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/AllAmericanRun"><em>All American Run</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TheClassicsRun"><em>The Classics Run</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TheSupercarRun"><em>The Supercar Run</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/DriftAttack"><em>Drift Attack</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/FramerateUnlocker"><em>Framerate Unlocker - Stay Tuned!</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/FramerateUnlocker"><em>Framerate Unlocker</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/ExtraUIOptions"><em>Extra UI Options</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/TODRandomizer"><em>TOD Randomizer</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/mRally2/UnreleasedEvents"><em>Unreleased Events</em></a></li>
@@ -88,6 +89,13 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/3251"><em>Debug Menu & Intro Movie Skip</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=ktw051&logNo=10185640112"><em>Unrestricted Car Roster</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://nfsmods.xyz/mod/282"><em>Basic Car Changer</em></a></li>
+   </ul>
+   <p><br></p>
+   <p><strong>SPEEDRUNNING</strong></p>
+   <hr>
+   <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.speedrun.com/nfstr?h=The_Run&x=wdmz4wx2"><em>Leaderboards</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://discord.com/invite/0q21vTfIVQ7xibxy"><em>Discord Server</em></a></li>
    </ul>
    <p><br></p>
    <p><strong>IMAGE GALLERY</strong></p>
@@ -158,6 +166,7 @@
    <hr>
    <ul>
       <li>I am not responsible for any law infringement or damage to your system caused by the third party tools shared here. Use them at your own risk</li>
+      <li>By using any piece of code code or tools shared here you agree to credit the respective authors once your mod or tool gets released to the public</li>
       <li>I do not own the rights of the art seen on this page. All rights reserved to Electronic Arts Inc.<br></li>
    </ul>
    <p><br></p>
