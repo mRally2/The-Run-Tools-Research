@@ -118,6 +118,7 @@
    <hr>
    <ul>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/E2EPTU13f34"><em>Need For Speed The Run Making Of</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/kmILxl2Ov1w"><em>Need For Speed The Run The Sounds Of</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/25533404"><em>Need For Speed The Run Sizzle Reel</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/37715564"><em>Need For Speed The Run 3D Map Animation</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/33616977"><em>Need For Speed The Run Environments Showcase</em></a></li>
