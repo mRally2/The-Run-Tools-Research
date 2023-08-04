@@ -121,6 +121,7 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/kmILxl2Ov1w"><em>Need For Speed The Run The Sounds Of</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/25533404"><em>Need For Speed The Run Sizzle Reel</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/37715564"><em>Need For Speed The Run 3D Map Animation</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/o-7aA7gfPsM"><em>Need For Speed The Run iOS Trailer</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://vimeo.com/33616977"><em>Need For Speed The Run Environments Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtube.com/playlist?list=PLlY5XyV8TgXVu8K6vbGaWkqa0vKNtt3Xi"><em>Need For Speed The Run Modding Showcase</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://youtu.be/mE6uawWQGqA"><em>Need For Speed The Run Demo Showcase</em></a></li>
@@ -142,6 +143,7 @@
    <p><strong>ART PORTFOLIO</strong></p>
    <hr>
    <ul>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/aoDwa9"><em>Mindwalk Studios</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/2631941/Need-for-Speed-The-Run"><em>Aaron Richmond</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/2526367/Need-For-Speed-The-Run-A-selection-of-tracks"><em>Sebastien Linage</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.artstation.com/artwork/q42az"><em>Brendan McCaffrey</em></a></li>
@@ -151,8 +153,7 @@
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/1625885/Need-for-Speed-The-Run"><em>Andy Koo</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/3070525/Driving-The-Music"><em>Trevor Gavin</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/23802239/Need-For-Speed-The-Run-Environment-Art"><em>Steve Walker</em></a></li>
-      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/2120320/Need-For-Speed-The-Run"><em>Desmond Hewagama
-</em></a></li>
+      <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/2120320/Need-For-Speed-The-Run"><em>Desmond Hewagama</em></a></li>
       <li><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.behance.net/gallery/22844403/Need-For-Speed-The-Run"><em>Andrew Kwa</em></a></li>
    </ul>
    <p><br></p>
